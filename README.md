@@ -1,10 +1,10 @@
----
 
-## 📈 Sample Visual
+ # 🏙️ Exploring NYC Airbnb Market Trends
 
-![Room Type Distribution](https://raw.githubusercontent.com/Temela/Airbnb-Trends-NYC/main/visuals/room_type_distribution.png)
 ---
-# 🏙️ Exploring NYC Airbnb Market Trends
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Temela/NYC-Airbnb-Market-2024/main/banner.png" alt="NYC Airbnb Banner" />
+</p>
 
 This project analyzes a simulated dataset of Airbnb listings in New York City for 2024. It explores trends in room types, pricing, availability, and geospatial distributions across boroughs using Python and data visualization libraries.
 
